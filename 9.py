@@ -5,4 +5,4 @@ def iva(venta):
     viva = venta+iva
     print("valor de venta con iva incluido",viva)
 
-iva(10.000)
+iva(10000)
